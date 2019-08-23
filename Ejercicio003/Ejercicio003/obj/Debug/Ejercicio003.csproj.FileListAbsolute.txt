@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicio003\Ejercicio003\bin\Debug\Ejercicio003.exe.config
+D:\VisualStudio\Ejercicio003\Ejercicio003\bin\Debug\Ejercicio003.exe
+D:\VisualStudio\Ejercicio003\Ejercicio003\bin\Debug\Ejercicio003.pdb
+D:\VisualStudio\Ejercicio003\Ejercicio003\obj\Debug\Ejercicio003.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio003\Ejercicio003\obj\Debug\Ejercicio003.exe
+D:\VisualStudio\Ejercicio003\Ejercicio003\obj\Debug\Ejercicio003.pdb
+D:\VisualStudio\Ejercicio003\Ejercicio003\obj\Debug\Ejercicio003.csprojAssemblyReference.cache
