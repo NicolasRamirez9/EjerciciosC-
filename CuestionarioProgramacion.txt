@@ -1,0 +1,17 @@
+1.¿Qué es el CLR?
+	Es el entorno de ejecución de .NET Framework, maneja la administración y alocación de memoria.
+	Es también una máquina virtual que ejecuta aplicaciones y compila lenguaje
+	intermedio a lenguaje máquina durante la ejecución de la aplicación (just-in-time /JIT).
+
+2.Describa el proceso de compilación de C#.
+	Primero se compila el lenguaje intermedio (compilacion), o sea C#, y luego el CLR lo compila
+	 y lo pasa a lenguaje maquina (ejecucion).
+3. ¿Qué es el CTS?
+	Es un conjunto común de TIPOS DE DATOS y reglas que cualquier lenguaje de .NET Framework debe implementar.
+	Provee una biblioteca que contiene los tipos primitivos básicos.
+	Establece un marco que permite la ejecución inter-lenguajes.
+
+4. ¿Qué es un tipo por referencia (Reference Type)? ¿En qué se diferencia de un tipo por valor (Value Type)?
+
+5. Escalares: Tienen mas de un dato, mas de un elemento, esta compuesto por varios elementos.
+No escalares: 
