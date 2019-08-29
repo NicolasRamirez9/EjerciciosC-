@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{84795ABE-B35A-4BEA-9BE9-D27E37F64A23}</ProjectGuid>
+    <ProjectGuid>{7333AE31-55F7-4B84-8F8C-C5E732E59BEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ejercicio015</RootNamespace>
     <AssemblyName>Ejercicio015</AssemblyName>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculadora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

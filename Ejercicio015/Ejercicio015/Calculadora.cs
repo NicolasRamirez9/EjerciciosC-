@@ -10,10 +10,18 @@ namespace Ejercicio015
     {
         public static float Calcular(float numeroUno, float numeroDos, char operacion)
         {
-            float calculo;
-            float resultado;
+            float resultado = 0;
 
-            if(calculo == )
+            switch(operacion)
+            {   
+                case "*":
+                    resultado = numeroUno * numeroDos;
+                    return resultado;
+                    break;
+
+
+
+
         }
     }
 }
