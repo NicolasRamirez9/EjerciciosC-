@@ -1,0 +1,7 @@
+D:\VisualStudio\EjClase5\EjClase5\bin\Debug\EjClase5.exe.config
+D:\VisualStudio\EjClase5\EjClase5\bin\Debug\EjClase5.exe
+D:\VisualStudio\EjClase5\EjClase5\bin\Debug\EjClase5.pdb
+D:\VisualStudio\EjClase5\EjClase5\obj\Debug\EjClase5.csprojAssemblyReference.cache
+D:\VisualStudio\EjClase5\EjClase5\obj\Debug\EjClase5.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EjClase5\EjClase5\obj\Debug\EjClase5.exe
+D:\VisualStudio\EjClase5\EjClase5\obj\Debug\EjClase5.pdb
